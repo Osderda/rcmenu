@@ -1,7 +1,7 @@
 {
     "NOTIFICATION_WELCOME_TEXT": "Loaded RcMenu. Press {} to open",
     "NOTIFICATION_WELCOME_TITLE": "Welcome",
-    "HEADING_WELCOME": "Welcome",
+    "HEADING_WELCOME": "Welcome To RcMenu!",
     "SCAPI": "SCAPI",
     "MSG_SENT_SUCCESS": "Message successfully sent",
     "MSG_SENT_FAIL": "Message not sent. Are you connected to the internet?",
