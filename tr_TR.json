@@ -604,7 +604,7 @@
   "SETTINGS_NOTIFY_OUT_OF_ALLOWED_RANGE_SYNC_TYPE": "İzin verilen aralık dışı senkronizasyon türü",
   "SETTINGS_NOTIFY_INVALID_SYNC": "Geçersiz senkronizasyon",
   "DEBUG_TAB_SCRIPTS": "Komut dosyaları",
-  "DEBUG_TAB_LUA_SCRIPTS": "Komut dosyaları",
+  "GUI_TAB_LUA_SCRIPTS": "Komut dosyaları",
   "CLOSE": "Kapatmak",
   "DEBUG_SCRIPTS_SUB_TITLE": "Bu komut dosyaları, döngüye alınmış tüm özelliklerden sorumludur.\nYalnızca ne yaptığınızı biliyorsanız devre dışı bırakın.",
   "SETTINGS_MISC": "Misc",
