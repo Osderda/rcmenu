@@ -606,6 +606,7 @@
     "SETTINGS_NOTIFY_INVALID_SYNC": "Invalid sync",
     "DEBUG_TAB_SCRIPTS": "Scripts",
     "GUI_TAB_LUA_SCRIPTS": "Scripts",
+    "GUI_TAB_REALITYCHEATS": "RealityCheats Special",
     "CLOSE": "Close",
     "DEBUG_SCRIPTS_SUB_TITLE": "These scripts are responsible for all looped features.\nOnly disable if you know what you are doing.",
     "SETTINGS_MISC": "Misc",
