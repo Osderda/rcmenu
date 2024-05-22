@@ -360,7 +360,7 @@
   "COMPLAINT_KICK_DESC": "Oyuncunun tekmelenmesi yaklaşık 10 saniye sürebilir.",
   "COPY": "Kopyala",
   "COPY_SESSION_INFO": "Sunucu Bilgilerini Kopyala",
-  "CORE_GUI_COMPONENTS_DISABLED": "Engelli",
+  "CORE_GUI_COMPONENTS_DISABLED": "Kapalı",
   "CREATOR_INFINITE_MEMORY": "Sonsuz Model Belleği",
   "CREATOR_INFINITE_MEMORY_DESCRIPTION": "Sonsuz Model Belleği yalnızca geliştirici modu etkinleştirilmediğinde kullanışlıdır.",
   "CREATOR_JOB_CREATE_FILE": "Job Dosyası Oluştur",
