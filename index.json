@@ -1,14 +1,39 @@
 {
-    "version": 5,
+    "version": 102,
     "default_lang": "en_US",
-    "translations": {
-        "en_US": {
-            "name": "English (US)",
-            "file": "en_US.json"
-        },
-        "tr_TR": {
-            "name": "Turkish (TR)",
-            "file": "tr_TR.json"
-        }
+  "translations": {
+
+    "tr_TR": {
+      "alphabet_type": "turkish",
+      "name": "Turkish (TR)",
+      "file": "tr_TR.json"
+    }, 
+    "en_US": {
+      "name": "English (US)",
+      "file": "en_US.json"
+    },
+    "es_ES": {
+      "name": "Español (España)",
+      "file": "es_ES.json"
+    },  
+    "pl_PL": {
+      "name": "Polish (PL)",
+      "file": "pl_PL.json"
+    }, 
+    "ru_RU": {
+      "alphabet_type": "cyrillic",
+      "name": "Russian (RU)",
+      "file": "ru_RU.json"
+    },
+    "zh_CN": {
+      "alphabet_type": "chinese",
+      "name": "Chinese (CN)",
+      "file": "zh_CN.json"
+    }, 
+    "ko_KR": {
+      "alphabet_type": "korean",
+      "name": "Korean (KR)",
+      "file": "ko_KR.json"
     }
+  }
 }
